@@ -1306,6 +1306,7 @@ input, select, textarea {
 			max-width: 150px;
 			margin: 0 auto;
 			display: block;
+			background: transparent !important;
 		}
 
 			#header .logo .icon:before {
