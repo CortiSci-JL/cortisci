@@ -1299,6 +1299,7 @@ input, select, textarea {
 			display: flex;
 			align-items: center;
 			justify-content: center;
+			background: none;
 		}
 
 		#header .logo .image.main img{
