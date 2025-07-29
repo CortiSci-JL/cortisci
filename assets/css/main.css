@@ -1670,3 +1670,8 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+.image.no-overlay:before {
+  display: none !important;
+}
+
